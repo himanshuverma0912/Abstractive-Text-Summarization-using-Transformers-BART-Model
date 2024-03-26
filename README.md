@@ -61,3 +61,7 @@ source myenv/bin/activate
 5. <strong>Open browser and app on defined port(default: 5000)</strong>
 
 `localhost:5000`
+
+### About the web app
+1) Paste any news article URL and click on Submit button
+2) We will see the extracted content of the news article on the Left hand side and its abstractive summarization on the Right hand side.
